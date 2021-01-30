@@ -4,3 +4,4 @@ welcome to china. there are lots of friendly people .
 the third modify,thank you. 
 
 this is hot_fix branch,please look out.
+this is red_fix branch,please look out.
