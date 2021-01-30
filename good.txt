@@ -10,3 +10,5 @@ this is red_fix branch,please look out.
 this is changed .
 
 我是令狐冲，我比岳不群厉害。
+
+it edited by linjuncai.
